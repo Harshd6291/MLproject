@@ -8,6 +8,7 @@ authors = [
 ]
 requires-python = ">=3.13"
 dependencies = [
+    "logging>=0.4.9.6",
     "setuptools>=84.2.1",
 ]
 
